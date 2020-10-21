@@ -1,0 +1,81 @@
+{
+  "employees": [
+    {
+      "id": "E001",
+      "firstName": "Naga",
+      "lastName": "Krishna",
+      "surname": "Koyya",
+      "age" : 30,
+      "dob" : "18-05-1990",
+      "gender" : "Male",
+      "maritalStatus" : "single",
+      "qualification" : "B.tech",
+      "location" : "Annavaram",
+      "designation" : "Senior Software Engineer",
+      "presentWorkingCompany" : "Accolite",
+      "workLocation" : "Hyderabad"
+    },
+    {
+      "id": "E002",
+      "firstName": "Naveen",
+      "lastName": "",
+      "surname": "Thota",
+      "age" : 29,
+      "dob" : "09-05-1992",
+      "gender" : "Male",
+      "maritalStatus" : "single",
+      "qualification" : "B.tech",
+      "location" : "Kakinada",
+      "designation" : "Programming Manager",
+      "presentWorkingCompany" : "DarwinBox",
+      "workLocation" : "Hyderabad"
+    },
+    {
+      "id": "E003",
+      "firstName": "Swaran",
+      "lastName": "",
+      "surname": "Mysari",
+      "age" : 33,
+      "dob" : "09-07-1987",
+      "gender" : "Male",
+      "maritalStatus" : "Married",
+      "qualification" : "B.tech",
+      "location" : "ECIL",
+      "designation" : "Assistant Manager",
+      "presentWorkingCompany" : "DMI Finance",
+      "workLocation" : "Hyderabad"
+    },
+    {
+      "id": "E004",
+      "firstName": "Harish",
+      "lastName": "Rao",
+      "surname": "Ramachandruni",
+      "age" : 27,
+      "dob" : "04-11-1994",
+      "gender" : "Male",
+      "maritalStatus" : "Single",
+      "qualification" : "B.tech",
+      "location" : "Kothapalli",
+      "designation" : "Software Engineer",
+      "presentWorkingCompany" : "Salesforce",
+      "workLocation" : "Hyderabad"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
